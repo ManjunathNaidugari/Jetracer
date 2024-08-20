@@ -106,7 +106,7 @@ JetRacer is an AI-powered autonomous racecar built using NVIDIA's Jetson Nano an
 ## Result
 ![Alt Text](https://github.com/ManjunathNaidugari/Jetracer/road_following/assets/3.gif)
 
-## Troubleshooting
+## Troubleshooting 
 
 
 - **Car Not Moving as Expected**: Ensure all connections are secure, and the correct model is loaded.
