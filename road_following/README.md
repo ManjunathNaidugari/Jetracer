@@ -104,7 +104,7 @@ JetRacer is an AI-powered autonomous racecar built using NVIDIA's Jetson Nano an
 - **Manual Overrides**: Optionally connect a game controller to manually control the JetRacer when needed.
 
 ## Result
-![Alt Text](https://github.com/ManjunathNaidugari/Jetracer/road_following/assets/3.gif)
+![Alt Text](https://github.com/ManjunathNaidugari/Jetracer/blob/main/road_following/assets/3.gif)
 
 ## Troubleshooting 
 
