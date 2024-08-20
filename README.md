@@ -24,7 +24,7 @@ Getting Started
 
 To get started with Jetracer, follow these steps:
 
-1.  bashgit clone https://github.com/ManjunathNaidugari/Jetracer.git
+1.  ``` git clone https://github.com/ManjunathNaidugari/Jetracer.git ```
     
 2.  **Navigate to a specific folder** to explore its contents and follow the instructions provided in its README file.
     
