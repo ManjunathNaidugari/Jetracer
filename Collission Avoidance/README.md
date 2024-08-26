@@ -39,7 +39,9 @@ This notebook facilitates the replication of the Jetbot robot's behavior for col
 ![Alt Text](https://github.com/ManjunathNaidugari/Jetracer/blob/main/Collission%20Avoidance/assets/WhatsApp-Video-2024-08-20-at-00.31.24.gif)
 
 ## See Also
+The code is adapted or taken from:
 - [JetBot](https://github.com/NVIDIA-AI-IOT/jetbot) - An educational AI robot based on NVIDIA Jetson Nano
 - [JetCam](https://github.com/NVIDIA-AI-IOT/jetcam) - An easy to use Python camera interface for NVIDIA Jetson
 - [JetCard](https://github.com/NVIDIA-AI-IOT/jetcard) - An SD card image for web programming AI projects with NVIDIA Jetson Nano
 - [torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
+- [jetracer](https://github.com/chentyra/jetracer-CollisionAvoidance) - Conversion of Jetbot code to jetracer
