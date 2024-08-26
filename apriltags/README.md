@@ -86,7 +86,7 @@ This project demonstrates the use of NVIDIA's JetRacer and a CSI camera for dete
 - **Commands**: Modify the steering, throttle, and other commands executed when specific tags are detected.
 
 ## Result
-https://github.com/ManjunathNaidugari/Jetracer/blob/main/apriltags/assets/5.gif
+![ALt Text](https://github.com/ManjunathNaidugari/Jetracer/blob/main/apriltags/assets/5.gif)
 
 ## Conclusion
 
